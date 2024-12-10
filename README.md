@@ -8,6 +8,7 @@ mempengaruhi kinerja, keamanan, dan pengalaman pengguna. Android menyediakan beb
 metode penyimpanan data, yaitu SharedPreferences, Internal Storage, dan External Storage, 
 yang masing-masing memiliki kelebihan dan kekurangan sesuai dengan jenis data yang disimpan 
 dan kebutuhan aplikasi. 
+
 SharedPreferences cocok untuk menyimpan data sederhana dalam format pasangan 
 kunci-nilai, seperti preferensi pengguna dan pengaturan aplikasi. Internal Storage memberikan 
 penyimpanan yang lebih aman untuk data aplikasi yang lebih sensitif dan hanya bisa diakses oleh 
